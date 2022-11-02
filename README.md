@@ -1,16 +1,9 @@
-# firstapp
+# Game Store App 
 
-A new Flutter project.
+![2020 11 11-20 30](https://user-images.githubusercontent.com/116195220/199510640-5bfc02ff-fe44-4955-b0b8-c9b90215b625.png)
 
-## Getting Started
+![2020 11 11-20 31_02](https://user-images.githubusercontent.com/116195220/199510659-a6ff8067-a148-4eba-a06e-975414dedca7.png)
 
-This project is a starting point for a Flutter application.
+![2020 11 11-20 31_01](https://user-images.githubusercontent.com/116195220/199510680-16d0b341-083f-44fd-be88-5c3e20233194.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2020 11 11-20 31](https://user-images.githubusercontent.com/116195220/199510714-4a0c0a2a-f40f-4bde-b36f-c86597a3d4c2.png)
